@@ -106,5 +106,8 @@ from sklearn.decomposition import PCA
 
  * Create the K Means Clustering Algorithm. 
 
- * Apply PCA in the Data Set and create clusters. 
+ * Apply PCA in the Data Set and create clusters.
+
+
+# By Prajwal Ghotkar 🖳
 
