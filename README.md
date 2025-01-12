@@ -3,8 +3,7 @@
 * Marketing is crucial for the growth and sustainability of any business.
 * Marketers can help build the company’s brand, engage customers, grow revenue, and increase sales.
 
-
-![image](https://github.com/user-attachments/assets/38470970-5932-4798-b5dc-227328bdac1a)
+![image](https://github.com/user-attachments/assets/448feb12-117d-4b89-a33b-20e9b318dc68)
 
 * One of the key pain points for marketers is to know their customers and identify their needs.
 * By understanding the customer, marketers can launch a targeted marketing campaign that is tailored for specific needs.
