@@ -109,5 +109,5 @@ from sklearn.decomposition import PCA
  * Apply PCA in the Data Set and create clusters.
 
 
-# By Prajwal Ghotkar 🖳
+# Prajwal Ghotkar 🖳
 
