@@ -1,13 +1,17 @@
 # Market Segmentation Project
 --
+
 **Understanding customer segments is vital for businesses aiming to launch targeted marketing campaigns, improve engagement, and maximize revenue growth. This project applies data science to customer data from a New York City bank to identify at least three actionable customer groups for targeted advertising.**
 ![image](https://github.com/user-attachments/assets/448feb12-117d-4b89-a33b-20e9b318dc68)
 
 --
+
 ##### Project Overview
 - **Objective**: Segment bank customers into distinct groups based on behavioral and financial data, enabling precise and impactful marketing.
 - **Context**: Consultant role for a bank possessing 6 months of customer data. The marketing team seeks to identify segments for campaign targeting.
+
 --
+
 **Understanding customers is at the heart of effective marketing. In this project, you take the role of a consultant for a New York City bank aiming to improve its marketing strategy through data-driven customer segmentation. The bank possesses six months of detailed customer data and wishes to optimize their advertising campaigns by targeting specific groups with tailored messages and offers.**
 
 ##### Project Context and Purpose
@@ -15,15 +19,20 @@
 - **Key Challenge**: Marketers need to identify and understand their customers’ unique needs to design highly effective campaigns.
 - **Solution with Data Science**: When customer data is available, methods like clustering and segmentation become powerful tools for grouping people with similar behaviors or needs.
 - **Project Scenario**: Prajwal,You as a data science consultant, are brought in to analyze the bank’s customer data. The marketing team’s goal is to divide their customer base into at least three distinct segments to enable more targeted and relevant advertising.
+
 --
+
 #### What This Project Involves
 - **Data Collection**: Analyze six months of data representing customer transaction and behavior patterns.
 - **Segmentation**: Use data science (typically clustering algorithms like KMeans) to group customers based on similarities in their financial behaviors and preferences.
 - **Outcome**: Identify and describe at least three unique customer segments the bank can target with personalized marketing campaigns.
+
 --
+
 ##### Why It Matters
 - **For the Bank**: Enables more efficient and effective allocation of marketing efforts and budget, boosts customer engagement, and increases the likelihood of campaign success.
 - **For Customers**: Ensures they receive offers and communication tailored to their actual needs and preferences, enhancing satisfaction and loyalty.
+
 --
 
 ##### 1. Dataset Description
@@ -46,7 +55,9 @@
 - **MINIMUM_PAYMENTS**: Minimum payments made
 - **PRC_FULL_PAYMENT**: Percent of full payment made
 - **TENURE**: Card membership period (months)
+
 --
+
 ##### 2. Systematic Step-by-Step Process
 - Step 1: Import Libraries and Datasets
   - Import essential libraries:
@@ -116,8 +127,19 @@
 ##### 5. How to Run
 - 1) Place the data CSV in the project directory.
 - 2) Install dependencies via requirements.txt:
-   - pip install -r requirements.txt
+
+
+   ```
+   pip install -r requirements.txt
+   pandas
+   numpy
+   matplotlib
+   seaborn
+   scikit-learn
+   jupyter
+  ```
 - 3) Run the Jupyter Notebook or the main Python script following section labels.
+
 ---
 
 ##### Benefits of Your Market Segmentation Project
