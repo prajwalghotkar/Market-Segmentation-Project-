@@ -1,6 +1,5 @@
 # Market Segmentation Project
 --
-
 **Understanding customer segments is vital for businesses aiming to launch targeted marketing campaigns, improve engagement, and maximize revenue growth. This project applies data science to customer data from a New York City bank to identify at least three actionable customer groups for targeted advertising.**
 ![image](https://github.com/user-attachments/assets/448feb12-117d-4b89-a33b-20e9b318dc68)
 
