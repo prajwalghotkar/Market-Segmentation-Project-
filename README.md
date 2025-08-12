@@ -162,4 +162,4 @@
 
 - **Enhanced Communication**:Clarity in data visualization and customer profiles assists non-technical stakeholders in understanding complex customer landscapes. This improves communication between data teams, marketers, and executives.
 
-##### By Prajwal Ghotkar 
+##### By Prajwal 
